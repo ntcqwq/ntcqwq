@@ -1,4 +1,4 @@
-[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/ntc)](https://www.dmoj.ca/user/ntc)
+[I do some competitive programming](https://clist.by/coder/ntc/)
 ---
 
 <div>
