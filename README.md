@@ -1,4 +1,4 @@
-#### [I do some competitive programming](https://clist.by/coder/ntc/)
+#### [retired OIer](https://clist.by/coder/ntc/)
 
 #### usaco au
 ---
