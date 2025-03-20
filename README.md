@@ -1,6 +1,5 @@
 #### [retired OIer](https://clist.by/coder/ntc/)
 
-#### usaco au
 ---
 
 <div>
