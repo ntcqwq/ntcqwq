@@ -1,4 +1,4 @@
-#### [retired OIer (clist link)](https://clist.by/coder/ntc/)
+#### [retired OIer](https://clist.by/coder/ntc/)
 
 ---
 
